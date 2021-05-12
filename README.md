@@ -9,3 +9,5 @@ Anubi, is the egyptian name of the god of death and the Underworld. In the Crypt
    - Liquidity pool tokens burned at launch (It's rug-proof)
    - Contract ownership renounced at launch (It's owned buy the community)
    Let's get this coin to 10,000x and Anubi will protect you and your beloved from the Underworld
+
+While the term DeFi literally includes the word decentralized, this is in reference to economic status as opposed to its internal hierarchy. The original AnubiCoin devs created the token and left it to the community, causing it to pass away and then rise again from the dead so that it could rule all the dog coins. 
